@@ -1,4 +1,4 @@
-# Проект №11: IVI — iOS Functional & UI Testing (Critical Flows)
+# Проект №11: IVI - iOS Functional & UI Testing (Critical Flows)
 
 ## Описание
 Проект содержит набор регрессионных и функциональных тест-кейсов для мобильного приложения **IVI (iOS)**.  
