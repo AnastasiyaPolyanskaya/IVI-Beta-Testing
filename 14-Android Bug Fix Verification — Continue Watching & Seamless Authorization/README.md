@@ -1,4 +1,4 @@
-# 14-Android Bug Fix Verification — Continue Watching & Seamless Authorization
+# 14-Android Bug Fix Verification - Continue Watching & Seamless Authorization
 
 Практический проект по верификации исправленных дефектов в мобильном приложении IVI (Android).
 
