@@ -1,4 +1,4 @@
-# Project 16 - IVI iOS Functional Testing
+# Project 16  IVI iOS Functional Testing
 
 Проект посвящён тестированию мобильного приложения **IVI** после обновлений функциональности и исправления дефектов в iOS версии приложения.
 
