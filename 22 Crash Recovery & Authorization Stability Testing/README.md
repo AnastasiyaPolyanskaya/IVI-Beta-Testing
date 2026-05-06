@@ -1,4 +1,4 @@
-# 22 — Crash Recovery & Authorization Stability Testing
+# 22 - Crash Recovery & Authorization Stability Testing
 
 Практический проект по ручному тестированию мобильного приложения IVI.
 
