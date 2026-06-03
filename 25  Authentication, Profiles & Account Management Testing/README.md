@@ -1,4 +1,4 @@
-# 25  Authentication, Profiles & Account Management Testing
+# 25 - Authentication, Profiles & Account Management Testing
 
 Практический проект по ручному тестированию мобильного приложения IVI.
 
